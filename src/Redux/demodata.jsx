@@ -7,12 +7,12 @@ export const userList=[
     {
         name:"Jon Snow",
         email:"jons@gmail.com",
-        id:32
+        id:2
     },
     {
         name:"John Wick",
         email:"johnwick@gmail.com",
-        id:31
+        id:3
     }
 
 ]
